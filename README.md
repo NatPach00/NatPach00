@@ -22,7 +22,7 @@ Tenho 23 anos, sou engenheira de dados e também trabalho com visualização de 
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na USCS e estou aprofundando os conhecimentos em **C, C#, Java, JavaScript/HTML/CSS e Banco de Dados**
 
-<div>
+<div align="center">
 <a href="https://github.com/NathPach">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathpach&show_icons=true&theme=synthwave&locale=pt-br"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathpach&langs_count=8&theme=synthwave&locale=pt-br"/>
